@@ -1,0 +1,10 @@
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\bin\Debug\PLATOMoveNClick.exe.config
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\bin\Debug\PLATOMoveNClick.exe
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\bin\Debug\PLATOMoveNClick.pdb
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.Form1.resources
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.Properties.Resources.resources
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.csproj.GenerateResource.Cache
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.exe
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.pdb
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.Form2.resources
+C:\Users\Rummy\documents\visual studio 2013\Projects\MoveNClick\PLATOMoveNClick\obj\Debug\PLATOMoveNClick.csprojResolveAssemblyReference.cache
